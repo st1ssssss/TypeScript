@@ -1,0 +1,7 @@
+export class User {
+    constructor(username, avatarUrl) {
+        this.username = username;
+        this.avatarUrl = avatarUrl;
+    }
+}
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoidXNlckNsYXNzLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vc3JjL3VzZXJDbGFzcy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxNQUFNLE9BQU8sSUFBSTtJQUlmLFlBQVksUUFBZ0IsRUFBRSxTQUFpQjtRQUM3QyxJQUFJLENBQUMsUUFBUSxHQUFHLFFBQVEsQ0FBQTtRQUN4QixJQUFJLENBQUMsU0FBUyxHQUFHLFNBQVMsQ0FBQTtJQUM1QixDQUFDO0NBQ0YiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgY2xhc3MgVXNlciB7XG4gIHVzZXJuYW1lOiBzdHJpbmdcbiAgYXZhdGFyVXJsOiBzdHJpbmdcblxuICBjb25zdHJ1Y3Rvcih1c2VybmFtZTogc3RyaW5nLCBhdmF0YXJVcmw6IHN0cmluZykge1xuICAgIHRoaXMudXNlcm5hbWUgPSB1c2VybmFtZVxuICAgIHRoaXMuYXZhdGFyVXJsID0gYXZhdGFyVXJsXG4gIH1cbn1cbiJdfQ==
