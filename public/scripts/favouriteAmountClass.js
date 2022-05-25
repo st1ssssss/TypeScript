@@ -1,0 +1,6 @@
+export class FavouriteAmount {
+    constructor(amount) {
+        this.amount = amount;
+    }
+}
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmF2b3VyaXRlQW1vdW50Q2xhc3MuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi9zcmMvZmF2b3VyaXRlQW1vdW50Q2xhc3MudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsTUFBTSxPQUFPLGVBQWU7SUFFMUIsWUFBWSxNQUFjO1FBQ3hCLElBQUksQ0FBQyxNQUFNLEdBQUcsTUFBTSxDQUFBO0lBQ3RCLENBQUM7Q0FDRiIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBjbGFzcyBGYXZvdXJpdGVBbW91bnQge1xuICBhbW91bnQ6IG51bWJlclxuICBjb25zdHJ1Y3RvcihhbW91bnQ6IG51bWJlcikge1xuICAgIHRoaXMuYW1vdW50ID0gYW1vdW50XG4gIH1cbn1cbiJdfQ==
